@@ -8,9 +8,10 @@
 - <b>Analytical Dashboards</b>
   - [name](insert link)
 
-<h2> 💼 Download my resume:</h2>
- 
+<h2> 💼 Check out my resume:</h2>
 
+ [Resume](https://docs.google.com/document/d/1IlSE0XYHJXqx7P88TOBP1oZkWrOhMGSwzF7sWWzNr9Y/edit?usp=sharing)
+ 
 <h2> 🔗 Find me on LinkedIn:</h2>
 
 [<img align="left" alt="CatherinePerlick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
