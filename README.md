@@ -5,7 +5,7 @@
   - [name](insert link)
 - <b>T-SQL Email Notification Script</b>
   - [name](insert link)
-- <b>Analytical Dashboards/b>
+- <b>Analytical Dashboards</b>
   - [name](insert link)
 
 <h2> 💼 Download my resume:</h2>
