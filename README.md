@@ -1,10 +1,12 @@
 <h1>Hi, I'm Catherine! <br/><a href="[https://github.com/cperlick](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">Data Analyst & Engineer</a>
 <h2>💻 Data Analytics & Engineering Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Stored Procedure & T-SQL Notification for Incomming E-commerce Volume</b>
+  - [name](insert link)
+- <b>T-SQL Email Notification Script</b>
+  - [name](insert link)
+- <b>Analytical Dashboards/b>
+  - [name](insert link)
 
 <h2> 💼 Download my resume:</h2>
  
