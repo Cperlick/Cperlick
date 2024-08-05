@@ -1,5 +1,5 @@
 <h1>Hi, I'm Catherine! <br/><a href="[https://github.com/cperlick](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">Data Analyst & Engineer</a>
-<h2>💻 Data Analytics & Engineering Projects:</h2>
+<h3>💻 Data Analytics & Engineering Projects:</h3>
 
 - <b>T-SQL Email Notification Scrip</b>
   - [T-SQL Email Notificication](https://github.com/Cperlick/TSQLEMAIL/blob/main/README.md)
