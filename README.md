@@ -1,7 +1,7 @@
 <h1>Hi, I'm Catherine! <br/><a href="[https://github.com/cperlick](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">Data Analyst & Engineer</a>
 <h3>💻 Data Analytics & Engineering Projects:</h3>
 
-- <b>T-SQL Email Notification Scrip</b>
+- <b>T-SQL Email Notification Script</b>
   - [T-SQL Email Notificication](https://github.com/Cperlick/TSQLEMAIL/blob/main/README.md)
 - <b>DB Volume monitor and Email notification</b>
   - [name](insert link)
